@@ -1,0 +1,22 @@
+CSV Data Analyzer — Statistical Summary
+========================================
+
+Column                        Mean        Median           Min           Max     Count
+--------------------  ------------  ------------  ------------  ------------  --------
+StudentID                 108.0000      108.0000      101.0000      115.0000        15
+Maths                      79.0333       83.0000       55.0000       95.0000        15
+Physics                    75.3333       76.0000       55.0000       94.5000        15
+Chemistry                  78.6333       80.5000       57.5000       93.5000        15
+Biology                    78.6667       80.5000       58.5000       94.0000        15
+Attendance                 86.8000       88.0000       70.0000       98.0000        15
+
+Student Highlights (Min / Max per column)
+-----------------------------------------
+Column                Min       Lowest scored by    Max       Highest scored by 
+--------------------  --------  ------------------  --------  ------------------
+StudentID             101.00    Alice               115.00    Olivia            
+Maths                 55.00     Hank                95.00     Charlie           
+Physics               55.00     Diana               94.50     Grace             
+Chemistry             57.50     Hank                93.50     Karen             
+Biology               58.50     Diana               94.00     Olivia            
+Attendance            70.00     Hank                98.00     Charlie           
